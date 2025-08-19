@@ -1,27 +1,25 @@
-# To you, my friend.
 
-### In the beginning, do you know who I am?
+> 温馨提示: 以下内容均有AI生成, 不代表我的任何性格/能力/观点.
 
-I'm Gove, not Gove2004, and I don't know who took the name Gove before me, so I had to settle for second.
+Hi there, I'm Gove2004 👋
+欢迎来到我的 GitHub 主页！
+I'm a passionate developer, lifelong learner, and open-source enthusiast.
 
-![freecompress-Gove](https://github.com/user-attachments/assets/10925ff8-1be1-4bb4-b2cf-b420508c1e89)
-
-That's me, haha!!!
-
-### And then, do you know what you're looking for me?
-
-I don't have anything extra to recommend to you here, just a few gadgets.
-
-- [SpaceString](https://github.com/Gove2004/SpaceString)
-
-There will be more gadgets in the future (I'm sure that!)
-
-### So finally, is there anything else you would like to tell me?
-
-- 3425519400@qq.com
-
-- 3425519400
-
-- +86 13088310620
-
-# So, do it!
+👨‍💻 About Me
+🎓 目前是一名计算机相关专业的学生，对算法、人工智能和前端开发充满兴趣。
+🌱 正在学习：深度学习、全栈开发、云原生技术。
+🛠️ 技能栈：Python、JavaScript、TypeScript、React、Node.js、C++、Linux。
+💡 热衷于开源项目，喜欢通过代码解决实际问题。
+📚 爱好广泛，喜欢阅读、写作、摄影和旅行。
+🚀 My GitHub Stats
+<img alt="Gove2004's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Gove2004&amp;show_icons=true&amp;theme=radical">
+<img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gove2004&amp;layout=compact&amp;theme=radical">
+📝 Recent Projects
+个人博客 — 记录技术成长与生活点滴
+算法题解 — LeetCode 刷题笔记与代码实现
+开源工具集 — 实用开发工具和脚本
+📫 How to reach me
+GitHub: Gove2004
+Email: gove2004@example.com
+Blog: https://gove2004.github.io
+“Stay hungry, stay foolish.” — Steve Jobs
