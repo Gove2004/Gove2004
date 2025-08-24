@@ -1,19 +1,20 @@
+
 <div align="right">
-	<a href="#zh">🇨🇳 中文</a> | <a href="README_en.md#en">🇬🇧 English</a>
+	<a href="#en">🇬🇧 English</a> | <a href="README.md#zh">🇨🇳 中文</a>
 </div>
 
-<a id="zh"></a>
+<a id="en"></a>
 
-重要的事情说三遍：
+<strong>Important Notice (3x):</strong>
 
-> 温馨提示: 以下内容均有AI生成, 不代表我的任何性格/能力/观点.
-> 
-> 温馨提示: 以下内容均有AI生成, 不代表我的任何性格/能力/观点.
-> 
-> 温馨提示: 以下内容均有AI生成, 不代表我的任何性格/能力/观点.
+> The following content is AI-generated and does not represent my personality, abilities, or views.
+>
+> The following content is AI-generated and does not represent my personality, abilities, or views.
+>
+> The following content is AI-generated and does not represent my personality, abilities, or views.
 
 <div align="center">
-	<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F7971E&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I%27m+Gove2004!;Welcome+to+my+GitHub+profile!;Coding+%E2%9C%A8+Learning+%F0%9F%92%AB+Sharing+%F0%9F%92%AC"/>
+	<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F7971E&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Gove2004!;Welcome+to+my+GitHub+profile!;Coding+%E2%9C%A8+Learning+%F0%9F%92%AB+Sharing+%F0%9F%92%AC"/>
 	<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Gove2004&fontSize=40&fontAlignY=35&desc=Open%20Source%20%7C%20AI%20%7C%20Fullstack%20Dev&descAlign=60&descAlignY=60"/>
 </div>
 
@@ -29,21 +30,6 @@
 <h2 align="center">👨‍💻 About Me</h2>
 
 <ul>
-	<li>🎓 <b>计算机专业在读</b>，热爱算法、AI、前端与开源。</li>
-	<li>🌱 <b>持续学习</b>：深度学习、全栈开发、云原生、自动化。</li>
-	<li>🛠️ <b>技能栈</b>：Python | JavaScript | TypeScript | React | Node.js | C++ | Linux | Docker | Git</li>
-	<li>💡 <b>热衷开源</b>，喜欢用代码解决实际问题，乐于分享。</li>
-	<li>📚 <b>兴趣广泛</b>：阅读、写作、摄影、旅行、桌游。</li>
-	<li>🏆 <b>竞赛经历</b>：ACM/ICPC、数学建模、AI挑战赛。</li>
-	<li>🌏 <b>语言</b>：中文 | English</li>
-</ul>
-
----
-
-<a id="en"></a>
-
-<h2 align="center">👨‍💻 About Me</h2>
-<ul>
 	<li>🎓 <b>Computer Science student</b>, passionate about algorithms, AI, frontend and open source.</li>
 	<li>🌱 <b>Always learning</b>: Deep Learning, Full Stack, Cloud Native, Automation.</li>
 	<li>🛠️ <b>Tech Stack</b>: Python | JavaScript | TypeScript | React | Node.js | C++ | Linux | Docker | Git</li>
@@ -52,6 +38,7 @@
 	<li>🏆 <b>Contests</b>: ACM/ICPC, Math Modeling, AI Challenges.</li>
 	<li>🌏 <b>Languages</b>: Chinese | English</li>
 </ul>
+
 <div align="center">
 	<img src="https://github-profile-trophy.vercel.app/?username=Gove2004&theme=gruvbox&column=7&margin-w=10&no-frame=true"/>
 </div>
@@ -87,10 +74,10 @@
 <h2 align="center">📝 Recent Projects</h2>
 
 <ul>
-	<li>📖 <a href="https://github.com/Gove2004/blog">个人博客</a> — 记录技术成长与生活点滴</li>
-	<li>🧮 <a href="https://github.com/Gove2004/leetcode">算法题解</a> — LeetCode 刷题笔记与代码实现</li>
-	<li>🛠️ <a href="https://github.com/Gove2004/tools">开源工具集</a> — 实用开发工具和脚本</li>
-	<li>🌐 <a href="https://gove2004.github.io">个人主页</a> — 技术文章与项目展示</li>
+	<li>📖 <a href="https://github.com/Gove2004/blog">Personal Blog</a> — Notes on tech growth and life</li>
+	<li>🧮 <a href="https://github.com/Gove2004/leetcode">Algorithm Solutions</a> — LeetCode notes and code</li>
+	<li>🛠️ <a href="https://github.com/Gove2004/tools">Open Source Toolkit</a> — Useful dev tools and scripts</li>
+	<li>🌐 <a href="https://gove2004.github.io">Personal Site</a> — Tech articles and project showcase</li>
 </ul>
 
 <div align="center">
