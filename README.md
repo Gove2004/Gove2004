@@ -1,45 +1,121 @@
-<a href="README_en.md">English</a>
+<div align="center">
 
-## 关于我
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=2F81F7&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+Gove;NanChang+University+Student;C%23+%2F+Python+%2F+Godot;Always+learning%2C+always+building." alt="Typing SVG" />
 
-我是 Gove，南昌大学在读。2023 年 11 月注册的 GitHub，一直当自己的草稿本用——想到什么就写点什么，写崩了就扔在那。
+<a href="README_en.md">English</a> | **中文**
 
-主业是 C#，其次是 Python。HTML、TypeScript 也写，但基本是够用就行，谈不上擅长。
+[![GitHub followers](https://img.shields.io/github/followers/Gove2004?label=Followers&style=for-the-badge&color=2F81F7&logo=github)](https://github.com/Gove2004?tab=followers)
+[![GitHub User's stars](https://img.shields.io/github/stars/Gove2004?label=Total%20Stars&style=for-the-badge&color=f5c542&logo=github)](https://github.com/Gove2004?tab=repositories)
+[![Public repos](https://img.shields.io/badge/Public%20Repos-29-2F81F7?style=for-the-badge&logo=github)](https://github.com/Gove2004?tab=repositories)
 
-## 常用语言
+</div>
 
-C# 写得最多，占了自有仓库的一小半；Python 第二。剩下是 HTML、TypeScript、JavaScript、GDScript，都是用到哪学到哪。
+---
 
-游戏相关的会写点 GDScript，Godot 玩过一阵。
+## 👨💻 关于我 / About Me
 
-## 项目
+我是 **Gove**，南昌大学（NanChang University）在读学生，2023 年 11 月注册 GitHub。平时主要用 C# 和 Python 写东西，也会用 HTML、TypeScript、GDScript 做一些网页和 Godot 小项目。方向偏 AI 语音、游戏开发和 Windows 桌面工具。
 
-挑几个还能看的：
+**English** — I'm **Gove**, a student at **NanChang University**, on GitHub since November 2023. I mainly work in **C#** and **Python**, and also build small web and Godot projects with HTML, TypeScript and GDScript. My interests lean toward AI speech, game development and Windows desktop tools.
 
-- **[GoveKits](https://github.com/Gove2004/GoveKits)** — C#，我花时间最多的一个，现在还在改。顺手配了份 [DeepWiki 文档](https://deepwiki.com/Gove2004/GoveKits)。
-- **[RVC](https://github.com/Gove2004/RVC)** — 原版 RVC 被我拿来改着玩，语音转换那块。改得比较乱，但能跑。
-- **[SpaceString](https://github.com/Gove2004/SpaceString)** — 用空格藏信息的加密小玩意，零字符宽度那一套，写完之后自己觉得挺有意思。
-- **[UnReal-Objects](https://github.com/Gove2004/UnReal-Objects)** — Godot 做的小游戏，发到 [itch.io](https://gove.itch.io/unreal-objects) 上了。
-- **[GamePages](https://github.com/Gove2004/GamePages)** — 收集游戏页面的站点，[这里有得看](http://gamepages.evog.top/)。
+- 🎓 南昌大学 NanChang University（在读 / Student）
+- 📦 自有仓库 25 个（Own repositories: 25），累计 ★ 8
+- 👥 14 Followers · 23 Following
 
-还有一堆半成品和练手项目在 repos 里，什么都有，就不一个个列了。
+---
 
-## 最近在看什么
+## 🛠️ 技术栈 / Tech Stack
 
-这半年主要在折腾 AI 语音这块，RVC 那个就是顺手拿来改的，也翻过一些 TTS 和语音克隆的东西。
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![GDScript](https://img.shields.io/badge/GDScript-478CBF?style=flat-square&logo=godotengine&logoColor=white)
 
-游戏开发一直没放下，Godot 用得多，Unity 偶尔翻翻。
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-.NET 桌面工具算是老本行，Windows 上零零碎碎的小工具我挺感兴趣。
+---
 
-## GitHub
+## 📊 语言分布 / Language Distribution
 
-<img src="https://github-readme-stats.vercel.app/api?username=Gove2004&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+自有仓库 25 个的语言分布 / Language distribution across my 25 own repositories：
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gove2004&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+| 语言 / Language | 仓库数 / Repos | 占比 / Share |
+| :--- | ---: | ---: |
+| C# | 9 | 36.0% |
+| Python | 5 | 20.0% |
+| HTML | 4 | 16.0% |
+| JavaScript | 2 | 8.0% |
+| TypeScript | 2 | 8.0% |
+| GDScript | 2 | 8.0% |
+| Other | 1 | 4.0% |
+| **合计 / Total** | **25** | **100%** |
 
-## 联系我
+---
 
-想找我就来 GitHub：[@Gove2004](https://github.com/Gove2004)。提 issue 或者 PR 我都会看。
+## 🚀 项目 / Projects
 
-邮箱和博客我没公开，所以这里就留这一个地方。
+| 项目 / Project | 语言 / Language | 简介 / Description | Star | 链接 / Link |
+| :--- | :--- | :--- | ---: | :--- |
+| **dsh-plugins** | JavaScript | 插件集合项目 | — | [Repo](https://github.com/Gove2004/dsh-plugins) |
+| **GGBot** | Python | 机器人 / 自动化项目 | — | [Repo](https://github.com/Gove2004/GGBot) |
+| **RVC** | Python | 基于原始 RVC 项目的个人爆改版本（语音转换） | ★ 1 | [Repo](https://github.com/Gove2004/RVC) |
+| **LearnDeep** | Python | 深度学习学习与实践项目 | — | [Repo](https://github.com/Gove2004/LearnDeep) |
+| **Ninth-Slime-Card** | C# | 卡牌类游戏项目 | — | [Repo](https://github.com/Gove2004/Ninth-Slime-Card) |
+| **GamePages** | HTML | 游戏页面集合站点 | — | [Repo](https://github.com/Gove2004/GamePages) · [Demo](http://gamepages.evog.top/) |
+| **GoveKits** | C# | 个人工具箱项目 | ★ 5 | [Repo](https://github.com/Gove2004/GoveKits) · [Docs](https://deepwiki.com/Gove2004/GoveKits) |
+| **20261024** | TypeScript | TypeScript 项目，带在线页面 | — | [Repo](https://github.com/Gove2004/20261024) · [Demo](https://gove2004.github.io/20261024/) |
+| **Tutorial** | HTML | 教程站点 | — | [Repo](https://github.com/Gove2004/Tutorial) · [Demo](http://tutorial.github.evog.top/) |
+| **ModelView** | Python | 模型查看 / 可视化项目 | — | [Repo](https://github.com/Gove2004/ModelView) |
+| **MySkill** | GDScript | Godot 技能系统项目 | — | [Repo](https://github.com/Gove2004/MySkill) |
+| **BigData** | HTML | 大数据主题页面 | — | [Repo](https://github.com/Gove2004/BigData) |
+| **sui-chat** | TypeScript | TypeScript 聊天项目 | — | [Repo](https://github.com/Gove2004/sui-chat) |
+| **HABBY** | C# | C# 项目 | — | [Repo](https://github.com/Gove2004/HABBY) |
+| **Archipelago-BUG** | JavaScript | JavaScript 项目 | — | [Repo](https://github.com/Gove2004/Archipelago-BUG) |
+| **static-random-draw** | HTML | 静态随机抽签网页工具 | — | [Repo](https://github.com/Gove2004/static-random-draw) · [Demo](https://gove2004.github.io/static-random-draw/) |
+| **cosmicdream** | C# | C# 项目 | — | [Repo](https://github.com/Gove2004/cosmicdream) |
+| **UnReal-Objects** | GDScript | Godot 游戏作品 | — | [Repo](https://github.com/Gove2004/UnReal-Objects) · [Play](https://gove.itch.io/unreal-objects) |
+| **SpaceString** | Python | Zero-pitch space-based encryption（基于空格的加密） | ★ 1 | [Repo](https://github.com/Gove2004/SpaceString) |
+
+---
+
+## 🌱 兴趣方向 / Interests
+
+| 方向 / Direction | 说明 / Notes |
+| :--- | :--- |
+| **AI / LLM** | AI Agent、LLM 工具链与相关生态 |
+| **游戏开发 / Game Dev** | Godot、Unity 与游戏引擎 |
+| **语音克隆 / TTS** | 语音转换、语音合成（RVC 实践） |
+| **C# / .NET 工具链** | .NET 桌面工具与开发工具 |
+| **Windows 桌面工具** | 效率工具与系统增强类项目 |
+
+Star 语言偏好 / Starred language preference：Python 30 · C# 21 · C++ 10 · TypeScript 8 · JavaScript 8
+
+---
+
+## 📈 GitHub 统计 / GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Gove2004&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gove2004&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+
+<img height="165" src="https://streak-stats.demolab.com/?user=Gove2004&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Gove2004&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
+
+</div>
+
+---
+
+## 📫 联系我 / Contact
+
+- **GitHub**：[@Gove2004](https://github.com/Gove2004)
+- **Issues / PR**：欢迎在任意仓库提 issue 或 PR
+
+我没有公开的邮箱和博客，所以这里只留 GitHub。
+I have no public email or blog, so GitHub is the only contact listed here.
